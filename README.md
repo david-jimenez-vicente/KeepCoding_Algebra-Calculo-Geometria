@@ -15,10 +15,10 @@
 ---
 ## Enunciado del ejercicio  
 · Este es el proyecto final de la asignatura de "Álgebra, Cálculo y Geometría". Se pedía resolver ejercicios diversos resueltos con álgebra lineal,  
-  entre ellos compresión de imagen usando SVD, regresión lineal con mínimos cuadrados, regresión lineal con Gradient Descent y Creación de multiconjuntos y operaciones entre ellos.  
+  entre ellos compresión de imagen usando SVD, regresión lineal con mínimos cuadrados, regresión lineal con Gradient Descent, Creación de multiconjuntos y operaciones entre ellos, y como ejercicio opcional el cálculo de similaridad de pares de páginas web por el método del coseno.  
   
 ## Exercise statement  
 · This is the final project of the subject "Algebra, Calculus and Geometry". It was asked to solve various exercises solved with linear algebra,  
-  including image compression using SVD, linear regression with least squares, linear regression with Gradient Descent and Creation of multisets and operations between them.  
+  including image compression using SVD, linear regression with least squares, linear regression with Gradient Descent, Creation of multisets and operations between them, and as an optional exercise the calculation of similarity of pairs of web pages by the cosine method.    
   
 ---  
